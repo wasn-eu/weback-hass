@@ -1,6 +1,6 @@
 {
   "domain": "weback",
-  "name": "Weback",
+  "name": "weback",
   "version": "1.0.4",
   "documentation": "https://www.home-assistant.io/integrations/weback",
   "requirements": [
